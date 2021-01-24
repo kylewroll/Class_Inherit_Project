@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 /* Author: Kyle Rolland
  * Date: 1/23/2021
- * File: Textbook.cs
+ * File: Toy_Car.cs
  * Description: Concrete toy car class, calls function from abstract parent class, Item. Adds private decal variable, and overrides functions to be more specific
  */
 
